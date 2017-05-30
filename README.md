@@ -17,5 +17,5 @@ A Series to Learn Vue.js from the beginning. free to open it in another tab and 
 
 
 ## Following  Us
-  <a href="https://www.youtube.com/channel/UCp9dsnDEN2wGozvFDA-0-pA/"><img style='position: relative;top: 8px;margin-right: 8px;' src="https://www.youtube.com/yt/brand/media/image/YouTube-icon-full_color.png" width='35' />/Beepple Tut+</a>
-  <a href="https://codepen.io/archinmodi/pens/public/">Codepen</a>
+  <a href="https://www.youtube.com/channel/UCp9dsnDEN2wGozvFDA-0-pA/">Beepple Tut+</a>
+
