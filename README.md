@@ -11,6 +11,6 @@ A Series to Learn Vue.js from the beginning. free to open it in another tab and 
 
 ## Follow this series on YouTube <a href="https://www.youtube.com/channel/UCp9dsnDEN2wGozvFDA-0-pA/">Beepple Tut+</a>
 
-* Part-1 Hello Vue!
+* Part-1 Hello Word!
    * https://www.youtube.com/watch?v=rvexnjj4Xhc
 
